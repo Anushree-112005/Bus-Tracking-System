@@ -343,18 +343,4 @@ transport planning
 
 ------------------------------------------------------------------------
 
-## 🎥 Demo
 
-🔗 Live Demo: (https://ezybus-frontend.vercel.app/)
-🎬 Demo Video:(https://drive.google.com/file/d/1ysFT2_Dj6SqTqoM-Y9od0GVMIR-8V6NS/view?usp=drivesdk)
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Authors
-
-Nandhini R, Santhosh R, Gokul S, Darshana Ganesh
-B.Tech Computer Science and Engineering, 
-SRM Institute of Science and Technology,
-Tiruchirappalli
-
-------------------------------------------------------------------------
